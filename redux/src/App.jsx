@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     sfdg
+      <h1>redux</h1>
     </>
   )
 }
